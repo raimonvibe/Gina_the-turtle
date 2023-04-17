@@ -1,6 +1,6 @@
 # Gina_the-turtle
 
-Random Turtle Movements
+# Random Turtle Movements
 This is a Python Turtle project that uses the Turtle module to create a turtle object that moves in random directions and changes colors.
 
 Installation

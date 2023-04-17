@@ -1,4 +1,4 @@
-# Turtle Circle Drawing Module
+# Turtle Circle Drawing Module (Spirograph)
 
 This is a Python Turtle module that draws 36 circles around a central point, each with a different color and angle.
 

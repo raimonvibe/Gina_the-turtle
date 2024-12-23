@@ -1,3 +1,5 @@
+![Turtle Demo](turtle_demo.gif)
+
 # Snake Game
 This is a Python project that implements the classic Snake game using the Turtle module. The game allows the user to control a snake and eat food, with the snake growing longer with each food eaten. If the snake hits a wall or itself, the game ends.
 
